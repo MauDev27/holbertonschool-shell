@@ -1,0 +1,5 @@
+#!/bin/bash
+echo the absolute path name of the current working directory is: 'pwd'
+exit 0
+
+
