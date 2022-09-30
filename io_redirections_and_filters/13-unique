@@ -1,2 +1,2 @@
 #!/bin/bash
-cat skytest | sort | uniq 
+cat skytest | sort | uniq -u 
